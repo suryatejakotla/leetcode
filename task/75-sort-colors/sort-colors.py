@@ -3,6 +3,5 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        s=nums.sort()
-        return s
+        return nums.sort()
         
